@@ -6,8 +6,6 @@ servers:
   web:
     hosts:
       - 64.227.108.46
-    options:
-      publish: 80
 
 registry:
   username: nickhammond
