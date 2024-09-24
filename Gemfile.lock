@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nickhammond/kamal.git
-  revision: 85a5a09aacafb852e9905c360a578388ce2ad32d
+  revision: e252004eef8697fecdaecf661fe47e659c2e7c0f
   branch: buildpacks
   specs:
     kamal (2.0.0.rc2)
