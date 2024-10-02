@@ -5,7 +5,7 @@ image: nickhammond/hotdonuts
 servers:
   web:
     hosts:
-      - 64.227.108.46
+      - 64.23.193.237
 
 registry:
   username: nickhammond
@@ -14,7 +14,6 @@ registry:
 
 builder:
   arch: amd64
-  context: "."
   pack:
     builder: "heroku/builder:24"
     buildpacks:
